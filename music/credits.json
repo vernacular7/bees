@@ -1,0 +1,38 @@
+{
+  "n-1": {
+    "songTitle": "Silent",
+    "artist": "drób",
+    "source": "Free Music Archive",
+    "license": "CC BY 4.0"
+  },
+  "n-2": {
+    "songTitle": "Day I",
+    "artist": "Swelling",
+    "source": "Free Music Archive",
+    "license": "CC BY 4.0"
+  },
+  "n-3": {
+    "songTitle": "Night Caves",
+    "artist": "Lee Rosevere",
+    "source": "Free Music Archive",
+    "license": "CC BY 4.0"
+  },
+  "d-1": {
+    "songTitle": "Lovely",
+    "artist": "Alex-Productions",
+    "source": "chosic.com",
+    "license": "CC BY 3.0"
+  },
+  "d-2": {
+    "songTitle": "Moonlight Sonata, Op. 27 No. 2 - II. Allegretto",
+    "artist": "Paul Pitman",
+    "source": "musopen.org",
+    "license": "PDM 1.0"
+  },
+  "d-3": {
+    "songTitle": "Dance",
+    "artist": "Yakov Golman",
+    "source": "Free Music Archive",
+    "license": "CC BY 4.0"
+  }
+}
