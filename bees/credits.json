@@ -1,12 +1,13 @@
 {
   "Robot": { "by": "alex", "community": true },
   "Oneko": { "by": "alex", "community": true },
-  "Evil": { "by": "SourDoggy" },
-  "Good": { "by": "SourDoggy" },
-  "Chubby": { "by": "SourDoggy" },
-  "Retro": { "by": "SourDoggy" },
-  "Gummy": { "by": "SourDoggy" },
-  "Calm": { "by": "SourDoggy" },
-  "Floral": { "by": "SourDoggy" },
-  "Sad": { "by": "SourDoggy" }
+  "Freaky": { "by": "sourdoggy" },
+  "Evil": { "by": "sourdoggy" },
+  "Good": { "by": "sourdoggy" },
+  "Chubby": { "by": "sourdoggy" },
+  "Retro": { "by": "sourdoggy" },
+  "Gummy": { "by": "sourdoggy" },
+  "Calm": { "by": "sourdoggy" },
+  "Floral": { "by": "sourdoggy" },
+  "Sad": { "by": "sourdoggy" }
 }
