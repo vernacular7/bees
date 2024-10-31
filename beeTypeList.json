@@ -20,5 +20,10 @@
   "Collector": "tokenHoney",
   "Missing_Texture": "glitch",
   "Robot": "tokenFire",
-  "Oneko": "tokenOneko"
+  "Oneko": "tokenOneko",
+  "Gifted": "present",
+  "Ginger": "gingerBread",
+  "I.C.": "tokenFrosty",
+  "Pine": "tokenFloralW",
+  "Snow": "tokenSnowy"
 }
