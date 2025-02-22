@@ -10,5 +10,5 @@
   "Calm": { "by": "sourdoggy" },
   "Floral": { "by": "sourdoggy" },
   "Sad": { "by": "sourdoggy" },
-  "Makeup": { "by": "vernacular" }
+  "Makeup": { "by": "vernacular", "community": true }
 }
